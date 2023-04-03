@@ -1,6 +1,5 @@
 # Data-Extraction-Followed-by-Document-Classification
-This repository contains various files and folders but for viewers the important folders are the  four folders namely .py files, Text Files, DataFrame and Output.
-Information regarding each folder is given below, please go through this.
+This repository contains various files and folders. The objective.dcx is file which contains objective of this project you may read it before checking the important folders which are folders namely .py files, Text Files, DataFrame and Output.Information regarding each folder is given below, please go through this. These four folders are mainly associated with my work. So I hope you would enjoy my work. 
 
 .py files
 •	This folder contains .py files used to extract the text from the article and also files used to perform text analysis on the text files.
@@ -19,3 +18,6 @@ DataFrame
 
 Output
 •	This folder contains Output Solution.csv file which can be considered as output or result of the assignment. This file has all the variables computed and stored in respective feature.
+
+If you have any doubts or suggestions then you can email me.
+My email address: omkarlpatil64@gmail.com

@@ -1,5 +1,5 @@
 # Data-Extraction-Followed-by-Document-Classification
-This repository contains various files and folders. The objective.dcx is file which contains objective of this project you may read it before checking the important folders which are folders namely .py files, Text Files, DataFrame and Output.Information regarding each folder is given below, please go through this. These four folders are mainly associated with my work. So I hope you would enjoy my work. 
+This repository contains various files and folders. The Objective.docx is file which contains objective of this project you may read it before checking the important folders which are folders namely .py files, Text Files, DataFrame and Output.Information regarding each folder is given below, please go through this. These four folders are mainly associated with my work. So I hope you would enjoy my work. 
 
 
 .py files
